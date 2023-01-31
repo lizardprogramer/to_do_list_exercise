@@ -5,7 +5,7 @@
 
 ## Description:
 
-Simple web app where registred user is able to post tasks to his to-do list. User is able to "check" (if task is completed), edit and delete any task in his/her list. This web app was developed as an excercise for Laravel programming environment. 
+Simple web app where registered user is able to post tasks to his to-do list. User is able to "check" (if task is completed), edit and delete any task in his/her list. This web app was developed as an excercise for Laravel programming environment. 
 
 ## Instalation and usage
 
